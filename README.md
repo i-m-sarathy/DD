@@ -10,13 +10,6 @@ Saraswathi-vidhyashram</title>
   font-family: "Times New Roman";
   font-size: 30px;
 }
-body{
-
-background-image: url("overall.jpg");
- background-repeat: no-repeat;
- background-position: right top;
- background-attachment: scroll;
- }
 </style>
 
 </head>
